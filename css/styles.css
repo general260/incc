@@ -4213,8 +4213,8 @@ img.u-pull-left {
  * ------------------------------------------------------------------- */
 .s-footer {
     background-color : #111111;
-    padding-top      : var(--vspace-1_75);
-    padding-bottom   : var(--vspace-1_75);
+    padding-top      : var(--vspace-0_75);
+    padding-bottom   : var(--vspace-0_75);
     font-family      : var(--font-2);
     font-size        : calc(var(--text-size) * 0.8889);
     line-height      : var(--vspace-1);
